@@ -8,7 +8,7 @@ const Loading = () => {
 		<Container maxWidth="sm" sx={{ height: '100vh', display: 'felx', alignItems: 'center' }}>
 			<Box
 				sx={{
-					bgcolor: '#3df9ff',
+					bgcolor: '#1d72d3',
 					height: '100vh',
 					opacity: '0.5',
 					display: 'flex',
